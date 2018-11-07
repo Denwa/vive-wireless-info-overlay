@@ -1,5 +1,5 @@
 # Vive Wireless Info Overlay
-A Vive Wireless Adapter Info Overlay
+A Vive Wireless Adapter temperature monitoring overlay. This is useful if you think your wireless is overheating and you want to see what temperature it's hitting. 
 
 ## Usage
 1) Download and Unzip the latest release here: https://github.com/Denwa/vive-wireless-info-overlay/releases
